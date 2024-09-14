@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e312c39a-e481-4900-9981-446d3ad7b38b" name="Changes" comment="add Array.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiMath.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KondisiNull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/luasKelilingLingkaran.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operator!!.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AkarKuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PairReturn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsiDenganReturn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsiTanpaReturn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/singleExpression.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726123234125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Array.kt">
+      <created>1726224593812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726224593812</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
