@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e312c39a-e481-4900-9981-446d3ad7b38b" name="Changes" comment="add Array.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AkarKuadrat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PairReturn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsiDenganReturn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsiTanpaReturn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/singleExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SafeCall.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,30 +43,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LuasKelilingLingkaranKt">
-    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
+  <component name="RunManager" selected="Kotlin.Operator__Kt">
+    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
+    <configuration name="BreakContinueLabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueLabelKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FungsiMathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FungsiMathKt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LuasKelilingLingkaranKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LuasKelilingLingkaranKt" />
+    <configuration name="NullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,13 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LuasKelilingLingkaranKt" />
-        <item itemvalue="Kotlin.FungsiMathKt" />
-        <item itemvalue="Kotlin.ExceptionHandlingKt" />
-        <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.Operator__Kt" />
+        <item itemvalue="Kotlin.NullKt" />
+        <item itemvalue="Kotlin.BreakContinueLabelKt" />
+        <item itemvalue="Kotlin.ReturnKt" />
+        <item itemvalue="Kotlin.BreakContinueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726224593812</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Array.kt">
+      <created>1726305852977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726305852977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
